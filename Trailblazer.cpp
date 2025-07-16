@@ -2,7 +2,7 @@
  * File: Trailblazer.cpp
  *
  * Implementation of the graph algorithms that comprise the Trailblazer
- * assignment.
+ * assignment. :)
  */
 
 #include "Trailblazer.h"
